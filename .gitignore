@@ -17,3 +17,6 @@ failing_tests.txt
 nonexistent_tests.txt
 PluginExamples/.build
 PluginExamples/.swiftpm/
+
+# Bundler
+vendor/
