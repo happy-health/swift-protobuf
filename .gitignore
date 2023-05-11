@@ -14,3 +14,6 @@ mined_words.txt
 # Intermediate conformance test outputs
 failing_tests.txt
 nonexistent_tests.txt
+
+# Bundler
+vendor/
