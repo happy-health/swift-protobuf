@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name = 'SwiftProtobuf'
-  s.version = '1.20.1'
+  s.version = '1.20.1-gh'
   s.license = { :type => 'Apache 2.0', :file => 'LICENSE.txt' }
   s.summary = 'Swift Protobuf code generator plugin and runtime library'
   s.homepage = 'https://github.com/apple/swift-protobuf'
   s.author = 'Apple Inc.'
-  s.source = { :git => 'https://github.com/apple/swift-protobuf.git', :tag => s.version }
+  s.source = { :git => 'git@github.com:happy-health/swift-protobuf.git', :tag => s.version }
 
   s.requires_arc = true
   s.ios.deployment_target = '9.0'
